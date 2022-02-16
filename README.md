@@ -37,7 +37,7 @@ You need to have installed wget or curl in your terminal to execute the terminal
 
 ## Contact
 
-Akif Islam - [@your_facebook](https://facebook.com/AkifIslamOfficial) - iamakifislam@gmail.com
+Akif Islam - [Facebook](https://facebook.com/AkifIslamOfficial) - iamakifislam@gmail.com
 
 
 
