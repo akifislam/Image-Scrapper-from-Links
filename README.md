@@ -37,12 +37,12 @@ Make a folder and inside that folder, create a text file containing links of ima
   ```sh
   mkdir Image-Scraper
   ```
-<br>
+
 * Go inside that folder
   ```sh
   cd Image-Scraper
   ```
-<br>
+
 * Make a text file suppose called 'images.txt'
   ```sh
   touch images.txt
